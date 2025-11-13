@@ -6,5 +6,5 @@
 #  1. Create Virtual Environment  
 #   python -m venv venv 
 #  2. Activate Virtual Environment
-#   venv\Scripts\activate
+#   ./venv/Scripts/activate
 
